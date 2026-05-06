@@ -1,0 +1,3 @@
+D:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\postfix_eval.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\postfix_eval.dir/objects.a @CMakeFiles\postfix_eval.dir\objects1.rsp
+D:\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\postfix_eval.dir/objects.a -Wl,--no-whole-archive -o postfix_eval.exe -Wl,--out-implib,libpostfix_eval.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\postfix_eval.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+D:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ll1_tool.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\ll1_tool.dir/objects.a @CMakeFiles\ll1_tool.dir\objects1.rsp
+D:\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\ll1_tool.dir/objects.a -Wl,--no-whole-archive -o ll1_tool.exe -Wl,--out-implib,libll1_tool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ll1_tool.dir\linkLibs.rsp

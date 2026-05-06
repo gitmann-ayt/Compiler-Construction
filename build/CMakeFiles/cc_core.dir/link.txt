@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libcc_core.a CMakeFiles/cc_core.dir/src/ast.cpp.obj CMakeFiles/cc_core.dir/src/lexer.cpp.obj CMakeFiles/cc_core.dir/src/parser.cpp.obj CMakeFiles/cc_core.dir/src/semantics.cpp.obj CMakeFiles/cc_core.dir/src/tac.cpp.obj CMakeFiles/cc_core.dir/src/optimizer.cpp.obj CMakeFiles/cc_core.dir/src/tac_interpreter.cpp.obj CMakeFiles/cc_core.dir/src/c_emitter.cpp.obj CMakeFiles/cc_core.dir/src/util.cpp.obj
+D:\mingw64\bin\ranlib.exe libcc_core.a
